@@ -1,0 +1,651 @@
+City,Locality,BHK,Size_sqft,Bathrooms,Furnishing,Property_Type,Floor,Rent
+Pune,Baner,3,1250,2,Unfurnished,Studio,7,28000
+Nashik,Gangapur Road,4,1525,3,Semi-furnished,Independent House,7,30100
+Pune,Hadapsar,4,1525,4,Furnished,Apartment,1,43800
+Aurangabad,Satara Parisar,3,1223,3,Unfurnished,Independent House,3,27600
+Nagpur,Manish Nagar,4,1493,4,Unfurnished,Apartment,5,29800
+Kolhapur,Shahupuri,1,499,1,Furnished,Independent House,13,17100
+Mumbai,Powai,3,1241,3,Furnished,Apartment,2,42400
+Nashik,College Road,3,1126,3,Semi-furnished,Apartment,9,26900
+Nashik,Panchavati,3,1245,3,Unfurnished,Apartment,8,22700
+Kolhapur,Kasaba Bawada,1,529,1,Unfurnished,Apartment,3,13500
+Kolhapur,Uchgaon,2,954,2,Unfurnished,Apartment,6,22700
+Aurangabad,CIDCO,4,1477,3,Semi-furnished,Apartment,8,28900
+Nashik,College Road,4,1261,3,Furnished,Independent House,1,32800
+Mumbai,Powai,2,787,2,Unfurnished,Independent House,11,26300
+Aurangabad,Garkheda,3,1088,2,Furnished,Independent House,9,27200
+Pune,Hadapsar,1,517,1,Unfurnished,Apartment,10,16000
+Aurangabad,CIDCO,2,823,1,Semi-furnished,Apartment,9,20300
+Pune,Kharadi,2,937,2,Semi-furnished,Apartment,7,26600
+Nashik,College Road,3,1062,3,Semi-furnished,Apartment,4,30100
+Nashik,Gangapur Road,2,699,1,Unfurnished,Apartment,8,19800
+Mumbai,Andheri,3,1017,3,Semi-furnished,Apartment,14,46300
+Kolhapur,Tarabai Park,2,946,2,Unfurnished,Studio,15,15100
+Mumbai,Dadar,4,1440,3,Furnished,Independent House,15,52100
+Pune,Baner,2,1032,2,Semi-furnished,Apartment,10,26600
+Pune,Wagholi,1,618,1,Semi-furnished,Independent House,13,16200
+Kolhapur,Rankala,2,899,2,Unfurnished,Apartment,15,18000
+Kolhapur,Rajarampuri,2,798,2,Unfurnished,Independent House,8,18900
+Aurangabad,CIDCO,2,958,2,Unfurnished,Apartment,1,23400
+Nashik,Indira Nagar,4,1393,4,Semi-furnished,Apartment,14,28500
+Pune,Kharadi,1,537,1,Semi-furnished,Independent House,9,17000
+Mumbai,Powai,2,642,2,Semi-furnished,Independent House,12,32100
+Pune,Kothrud,4,1408,3,Semi-furnished,Apartment,6,27500
+Kolhapur,Rankala,4,1279,4,Unfurnished,Independent House,1,26700
+Kolhapur,Kasaba Bawada,3,1114,3,Unfurnished,Apartment,2,20100
+Aurangabad,CIDCO,2,1021,2,Unfurnished,Apartment,9,22300
+Nashik,Gangapur Road,2,1237,2,Semi-furnished,Apartment,2,17400
+Pune,Kharadi,1,697,1,Furnished,Independent House,0,24600
+Nashik,Pathardi,3,1124,3,Semi-furnished,Apartment,10,23900
+Aurangabad,Waluj,3,1195,3,Semi-furnished,Apartment,10,20700
+Nashik,College Road,3,1152,2,Unfurnished,Studio,5,30400
+Aurangabad,Garkheda,2,1109,1,Furnished,Apartment,8,23400
+Mumbai,Powai,1,733,1,Unfurnished,Apartment,3,25500
+Nashik,Gangapur Road,3,1151,2,Furnished,Apartment,14,29800
+Kolhapur,Kasaba Bawada,1,494,1,Semi-furnished,Apartment,4,15700
+Nagpur,Hingna,3,1168,2,Semi-furnished,Apartment,8,33600
+Aurangabad,CIDCO,3,1204,3,Furnished,Apartment,1,26600
+Aurangabad,Satara Parisar,3,1056,3,Unfurnished,Apartment,4,25600
+Aurangabad,Waluj,1,550,1,Furnished,Apartment,11,18100
+Pune,Baner,4,1486,3,Semi-furnished,Apartment,15,35300
+Nashik,Gangapur Road,1,447,1,Semi-furnished,Apartment,7,14300
+Aurangabad,Satara Parisar,3,882,2,Unfurnished,Independent House,1,19000
+Nashik,Gangapur Road,3,1223,3,Unfurnished,Independent House,14,23000
+Mumbai,Borivali,4,1405,4,Semi-furnished,Independent House,0,31000
+Mumbai,Andheri,3,1125,2,Semi-furnished,Independent House,12,29000
+Pune,Wagholi,3,1322,3,Furnished,Apartment,8,33000
+Pune,Hinjewadi,1,846,1,Unfurnished,Apartment,11,15400
+Nagpur,Wardha Road,2,827,2,Furnished,Apartment,2,25200
+Kolhapur,Uchgaon,2,1058,2,Semi-furnished,Independent House,2,26700
+Pune,Wagholi,2,941,2,Unfurnished,Apartment,8,23000
+Nashik,College Road,3,1156,3,Semi-furnished,Apartment,9,25400
+Kolhapur,Rajarampuri,2,1132,2,Semi-furnished,Apartment,6,24100
+Nashik,Panchavati,3,1119,3,Semi-furnished,Apartment,5,25600
+Aurangabad,Satara Parisar,3,1229,3,Semi-furnished,Independent House,14,24200
+Nagpur,Hingna,1,719,1,Unfurnished,Apartment,1,13900
+Aurangabad,Garkheda,1,599,1,Furnished,Apartment,11,13900
+Aurangabad,CIDCO,3,1094,2,Furnished,Apartment,5,24800
+Aurangabad,Waluj,4,1409,4,Semi-furnished,Apartment,10,29800
+Kolhapur,Kasaba Bawada,4,1313,3,Unfurnished,Apartment,8,31200
+Kolhapur,Rankala,1,827,1,Unfurnished,Independent House,6,11400
+Mumbai,Thane,2,1037,2,Unfurnished,Apartment,7,37900
+Nashik,Panchavati,2,880,2,Semi-furnished,Apartment,10,21000
+Mumbai,Dadar,3,1404,3,Furnished,Apartment,12,43000
+Nashik,College Road,4,1313,4,Furnished,Apartment,8,31200
+Mumbai,Thane,2,821,2,Unfurnished,Apartment,0,24600
+Mumbai,Powai,3,985,3,Semi-furnished,Independent House,10,34900
+Mumbai,Kurla,3,1031,3,Semi-furnished,Apartment,12,39500
+Nagpur,Mihan,1,669,1,Semi-furnished,Apartment,15,13200
+Nashik,Pathardi,4,1517,4,Furnished,Apartment,7,43600
+Mumbai,Borivali,3,1224,2,Unfurnished,Apartment,12,27100
+Kolhapur,Rankala,3,1213,2,Semi-furnished,Independent House,11,21000
+Pune,Hadapsar,2,903,2,Semi-furnished,Apartment,13,23000
+Nashik,Pathardi,2,610,2,Furnished,Apartment,3,21000
+Pune,Hinjewadi,3,1026,3,Unfurnished,Independent House,14,38200
+Nashik,Indira Nagar,3,1142,3,Furnished,Independent House,6,31000
+Nagpur,Mihan,2,879,2,Unfurnished,Apartment,7,15100
+Kolhapur,Uchgaon,4,1381,3,Furnished,Apartment,5,29200
+Nagpur,Manish Nagar,3,1217,3,Semi-furnished,Apartment,5,27800
+Kolhapur,Tarabai Park,2,941,1,Unfurnished,Apartment,5,21000
+Nashik,College Road,4,1570,3,Furnished,Independent House,7,37900
+Mumbai,Borivali,2,844,1,Semi-furnished,Apartment,1,20200
+Aurangabad,CIDCO,2,621,2,Semi-furnished,Apartment,0,16700
+Kolhapur,Rajarampuri,3,1285,2,Unfurnished,Apartment,6,25300
+Pune,Wagholi,2,775,2,Semi-furnished,Apartment,1,22700
+Nashik,Pathardi,2,888,2,Unfurnished,Apartment,13,24900
+Aurangabad,Garkheda,2,763,2,Semi-furnished,Apartment,14,16500
+Pune,Kharadi,1,733,1,Unfurnished,Apartment,0,17300
+Mumbai,Borivali,3,1171,2,Semi-furnished,Apartment,13,39100
+Mumbai,Thane,2,778,2,Furnished,Apartment,14,41700
+Nashik,Pathardi,1,789,1,Unfurnished,Apartment,9,10800
+Nagpur,Dharampeth,3,1006,2,Semi-furnished,Apartment,2,33100
+Mumbai,Andheri,3,1028,3,Semi-furnished,Studio,2,27400
+Nashik,Cidco,3,1161,2,Furnished,Apartment,9,29200
+Aurangabad,CIDCO,2,961,1,Furnished,Apartment,9,25800
+Kolhapur,Kasaba Bawada,4,1318,4,Semi-furnished,Apartment,4,37200
+Mumbai,Powai,3,1121,3,Unfurnished,Independent House,15,36500
+Kolhapur,Rajarampuri,3,1111,2,Unfurnished,Studio,14,21700
+Kolhapur,Kasaba Bawada,4,1280,4,Semi-furnished,Independent House,14,30300
+Pune,Baner,3,1207,3,Unfurnished,Independent House,11,31500
+Nashik,Gangapur Road,1,860,1,Furnished,Apartment,3,20900
+Nashik,College Road,3,1541,3,Semi-furnished,Apartment,5,33700
+Pune,Hinjewadi,2,933,2,Unfurnished,Independent House,6,23500
+Aurangabad,Garkheda,2,892,1,Unfurnished,Apartment,1,15300
+Pune,Kothrud,2,933,2,Furnished,Apartment,4,21400
+Mumbai,Thane,1,627,1,Furnished,Studio,4,28700
+Nashik,Gangapur Road,2,1049,2,Unfurnished,Independent House,2,21600
+Nashik,Gangapur Road,1,602,1,Semi-furnished,Independent House,4,13100
+Kolhapur,Shahupuri,1,622,1,Furnished,Apartment,12,18200
+Nagpur,Manish Nagar,2,809,2,Semi-furnished,Apartment,13,26400
+Nashik,Cidco,3,1223,3,Unfurnished,Apartment,5,30900
+Pune,Baner,2,1125,2,Semi-furnished,Apartment,8,22100
+Mumbai,Kurla,1,837,1,Semi-furnished,Apartment,7,28300
+Nagpur,Dharampeth,1,746,1,Semi-furnished,Apartment,14,19000
+Kolhapur,Kasaba Bawada,1,250,1,Unfurnished,Studio,13,8300
+Kolhapur,Shahupuri,1,909,1,Furnished,Apartment,12,21200
+Mumbai,Borivali,3,996,3,Unfurnished,Apartment,0,28800
+Aurangabad,Osmanpura,2,974,2,Semi-furnished,Apartment,6,20200
+Pune,Kothrud,3,976,3,Semi-furnished,Independent House,15,21100
+Mumbai,Kurla,3,1232,3,Semi-furnished,Apartment,11,54100
+Aurangabad,Satara Parisar,2,942,1,Semi-furnished,Independent House,6,20700
+Nagpur,Hingna,3,1236,3,Unfurnished,Apartment,6,30200
+Mumbai,Andheri,4,1593,3,Furnished,Apartment,5,49200
+Kolhapur,Tarabai Park,3,1234,2,Furnished,Apartment,2,22800
+Aurangabad,Beed Bypass,3,1164,3,Unfurnished,Studio,9,21000
+Nashik,Gangapur Road,3,1159,3,Semi-furnished,Studio,6,26100
+Kolhapur,Uchgaon,3,1172,3,Unfurnished,Independent House,7,27900
+Kolhapur,Kasaba Bawada,1,615,1,Semi-furnished,Apartment,11,14300
+Nashik,Indira Nagar,2,953,2,Unfurnished,Independent House,4,22900
+Nagpur,Dharampeth,1,694,1,Unfurnished,Independent House,5,13400
+Nagpur,Mihan,2,927,2,Semi-furnished,Studio,3,24500
+Kolhapur,Rajarampuri,3,1167,2,Semi-furnished,Apartment,12,31600
+Pune,Kothrud,3,1161,2,Semi-furnished,Studio,8,32400
+Pune,Wagholi,3,1276,3,Semi-furnished,Apartment,11,26300
+Aurangabad,Waluj,2,737,1,Semi-furnished,Apartment,12,21100
+Mumbai,Dadar,2,912,1,Unfurnished,Apartment,14,28900
+Nashik,Gangapur Road,2,810,1,Unfurnished,Apartment,0,20400
+Pune,Wagholi,1,532,1,Furnished,Apartment,13,21600
+Nashik,Indira Nagar,2,889,1,Semi-furnished,Apartment,12,17800
+Nashik,Pathardi,4,1476,4,Unfurnished,Independent House,1,33000
+Kolhapur,Rajarampuri,4,1503,4,Furnished,Studio,10,32500
+Nashik,Indira Nagar,2,869,1,Semi-furnished,Apartment,10,27700
+Nagpur,Dharampeth,3,1022,3,Unfurnished,Apartment,0,23200
+Nagpur,Sadar,1,683,1,Unfurnished,Apartment,6,17600
+Nagpur,Dharampeth,1,602,1,Unfurnished,Independent House,3,16700
+Kolhapur,Kasaba Bawada,2,1132,2,Unfurnished,Apartment,0,16500
+Nagpur,Manish Nagar,1,690,1,Furnished,Apartment,6,16300
+Nashik,College Road,2,1006,2,Furnished,Studio,4,15900
+Pune,Wagholi,2,756,1,Furnished,Independent House,9,27200
+Nagpur,Dharampeth,2,987,1,Semi-furnished,Independent House,6,17800
+Mumbai,Dadar,3,885,3,Semi-furnished,Apartment,7,32200
+Mumbai,Thane,4,1573,4,Semi-furnished,Apartment,1,43500
+Nagpur,Mihan,3,1139,3,Semi-furnished,Apartment,14,28300
+Nagpur,Sadar,2,992,2,Unfurnished,Apartment,5,23400
+Kolhapur,Tarabai Park,3,1154,3,Furnished,Studio,9,28600
+Kolhapur,Rajarampuri,3,1115,2,Semi-furnished,Apartment,15,24100
+Kolhapur,Uchgaon,1,783,1,Semi-furnished,Apartment,0,13200
+Kolhapur,Tarabai Park,4,1660,4,Unfurnished,Apartment,14,29500
+Mumbai,Borivali,2,710,1,Unfurnished,Apartment,15,28000
+Nagpur,Wardha Road,3,1129,2,Semi-furnished,Apartment,7,24400
+Pune,Wagholi,4,1338,4,Unfurnished,Independent House,12,28300
+Nashik,College Road,2,808,1,Semi-furnished,Apartment,11,18000
+Kolhapur,Uchgaon,4,1405,4,Unfurnished,Apartment,3,36400
+Mumbai,Powai,2,956,1,Furnished,Apartment,15,35100
+Nagpur,Dharampeth,2,776,1,Unfurnished,Independent House,8,18100
+Nagpur,Dharampeth,2,744,2,Unfurnished,Independent House,14,17200
+Pune,Kharadi,4,1389,4,Unfurnished,Studio,9,27900
+Nashik,Indira Nagar,2,1059,1,Semi-furnished,Independent House,15,29300
+Nagpur,Mihan,3,1203,3,Semi-furnished,Independent House,2,37800
+Aurangabad,Waluj,2,880,2,Semi-furnished,Apartment,7,17800
+Aurangabad,Waluj,2,1077,2,Unfurnished,Apartment,14,27100
+Nagpur,Sadar,3,990,3,Unfurnished,Apartment,14,19600
+Pune,Hadapsar,2,978,2,Unfurnished,Independent House,14,22300
+Nashik,Cidco,1,537,1,Semi-furnished,Studio,5,12300
+Pune,Hadapsar,2,1068,1,Semi-furnished,Apartment,2,23000
+Kolhapur,Tarabai Park,3,1048,3,Semi-furnished,Apartment,14,25300
+Mumbai,Kurla,1,774,1,Unfurnished,Apartment,7,23600
+Nashik,Gangapur Road,3,1341,2,Semi-furnished,Apartment,15,31800
+Aurangabad,Satara Parisar,4,1406,3,Semi-furnished,Apartment,6,36000
+Kolhapur,Kasaba Bawada,3,1215,2,Semi-furnished,Independent House,5,23100
+Nashik,Pathardi,2,1035,2,Semi-furnished,Independent House,2,25000
+Pune,Kharadi,3,1364,3,Semi-furnished,Independent House,2,37700
+Kolhapur,Tarabai Park,3,995,3,Unfurnished,Apartment,5,18800
+Aurangabad,Satara Parisar,1,507,1,Semi-furnished,Independent House,1,14100
+Mumbai,Thane,2,939,2,Semi-furnished,Apartment,5,43200
+Mumbai,Thane,2,965,2,Semi-furnished,Apartment,2,34400
+Nagpur,Hingna,3,927,2,Semi-furnished,Independent House,10,29500
+Nagpur,Hingna,3,1139,3,Semi-furnished,Apartment,1,30300
+Nashik,Cidco,4,1304,3,Furnished,Studio,1,33700
+Pune,Hinjewadi,1,627,1,Furnished,Apartment,6,22000
+Mumbai,Thane,2,813,1,Semi-furnished,Independent House,3,32300
+Aurangabad,Garkheda,2,882,1,Unfurnished,Apartment,12,19700
+Kolhapur,Tarabai Park,2,919,2,Semi-furnished,Apartment,15,25200
+Nashik,College Road,3,1008,3,Semi-furnished,Studio,13,21700
+Kolhapur,Uchgaon,3,1075,3,Semi-furnished,Apartment,12,20800
+Nashik,College Road,2,730,2,Semi-furnished,Studio,7,18100
+Mumbai,Kurla,1,511,1,Unfurnished,Apartment,3,21000
+Nagpur,Hingna,2,923,1,Furnished,Apartment,4,20800
+Mumbai,Andheri,1,703,1,Furnished,Apartment,15,25700
+Aurangabad,Osmanpura,2,1041,1,Furnished,Independent House,12,22300
+Kolhapur,Kasaba Bawada,3,1060,2,Unfurnished,Independent House,4,24000
+Kolhapur,Shahupuri,1,615,1,Furnished,Independent House,14,17900
+Kolhapur,Tarabai Park,2,885,2,Semi-furnished,Independent House,8,28700
+Aurangabad,Satara Parisar,2,871,2,Furnished,Studio,10,22800
+Pune,Kharadi,2,887,2,Furnished,Apartment,5,24800
+Pune,Hinjewadi,3,1149,2,Furnished,Apartment,12,29400
+Mumbai,Borivali,2,812,2,Unfurnished,Independent House,10,36300
+Nagpur,Dharampeth,2,835,2,Semi-furnished,Studio,5,13600
+Nashik,Cidco,2,921,2,Semi-furnished,Independent House,11,17400
+Nagpur,Dharampeth,2,840,2,Semi-furnished,Apartment,15,21300
+Pune,Hadapsar,2,880,1,Unfurnished,Apartment,3,16700
+Mumbai,Kurla,3,1096,3,Unfurnished,Apartment,14,29100
+Pune,Kharadi,1,651,1,Semi-furnished,Independent House,1,20400
+Mumbai,Borivali,2,726,2,Unfurnished,Apartment,8,24100
+Aurangabad,Garkheda,2,1077,1,Unfurnished,Independent House,2,22500
+Kolhapur,Rankala,2,1007,1,Furnished,Apartment,4,25600
+Nagpur,Sadar,2,1172,2,Unfurnished,Independent House,9,24000
+Nashik,Gangapur Road,3,1142,3,Unfurnished,Apartment,7,26800
+Pune,Baner,4,1624,4,Furnished,Apartment,7,34900
+Kolhapur,Rankala,1,651,1,Furnished,Apartment,1,18500
+Nashik,College Road,3,1281,3,Unfurnished,Apartment,2,24100
+Aurangabad,CIDCO,2,882,1,Unfurnished,Apartment,9,17000
+Mumbai,Dadar,2,669,1,Semi-furnished,Independent House,12,30000
+Aurangabad,Garkheda,3,1159,3,Semi-furnished,Studio,4,30400
+Nagpur,Sadar,3,1252,3,Semi-furnished,Independent House,13,29300
+Mumbai,Kurla,2,872,1,Unfurnished,Apartment,15,33300
+Mumbai,Borivali,3,1128,2,Unfurnished,Apartment,10,32800
+Nashik,Cidco,4,1175,3,Semi-furnished,Apartment,7,26000
+Mumbai,Borivali,4,1500,4,Semi-furnished,Apartment,4,52400
+Nashik,Panchavati,2,769,2,Furnished,Independent House,7,18100
+Nashik,Cidco,2,928,2,Semi-furnished,Independent House,8,21500
+Kolhapur,Shahupuri,3,1377,3,Unfurnished,Apartment,4,23700
+Nagpur,Dharampeth,2,932,2,Furnished,Independent House,7,29700
+Kolhapur,Shahupuri,3,901,3,Unfurnished,Apartment,9,21400
+Pune,Baner,3,1288,2,Unfurnished,Studio,14,31900
+Kolhapur,Rankala,3,1212,2,Semi-furnished,Apartment,15,34000
+Kolhapur,Uchgaon,2,1023,2,Semi-furnished,Apartment,6,20000
+Nashik,College Road,3,1016,2,Semi-furnished,Apartment,8,18500
+Aurangabad,Waluj,3,1315,3,Furnished,Apartment,15,32300
+Nashik,Panchavati,2,911,1,Furnished,Apartment,14,17900
+Kolhapur,Shahupuri,2,1140,1,Unfurnished,Apartment,1,23500
+Mumbai,Kurla,1,495,1,Unfurnished,Independent House,7,25000
+Mumbai,Andheri,2,958,2,Unfurnished,Apartment,11,30300
+Mumbai,Thane,2,1103,2,Semi-furnished,Apartment,0,30900
+Nagpur,Hingna,2,832,2,Semi-furnished,Apartment,6,17600
+Aurangabad,Waluj,4,1256,3,Furnished,Apartment,6,33100
+Kolhapur,Tarabai Park,3,1149,2,Furnished,Apartment,12,28100
+Nashik,Gangapur Road,3,1294,3,Semi-furnished,Independent House,5,23700
+Pune,Kharadi,2,898,1,Unfurnished,Apartment,7,19200
+Pune,Kharadi,3,1065,3,Semi-furnished,Independent House,8,30900
+Nagpur,Mihan,4,1362,3,Unfurnished,Apartment,6,24500
+Nashik,Indira Nagar,3,1279,2,Unfurnished,Apartment,10,28400
+Nagpur,Hingna,3,1040,3,Unfurnished,Independent House,5,25800
+Nashik,College Road,3,1502,2,Unfurnished,Independent House,1,27400
+Pune,Baner,2,726,2,Unfurnished,Apartment,11,21700
+Nagpur,Sadar,2,963,2,Unfurnished,Apartment,0,17900
+Aurangabad,CIDCO,2,745,2,Semi-furnished,Apartment,4,19000
+Nashik,Gangapur Road,2,919,1,Furnished,Apartment,3,21400
+Pune,Baner,1,715,1,Semi-furnished,Independent House,12,25300
+Pune,Kharadi,2,1085,1,Unfurnished,Apartment,1,18000
+Aurangabad,Satara Parisar,3,1034,3,Unfurnished,Apartment,9,21100
+Nagpur,Manish Nagar,4,1388,3,Unfurnished,Independent House,6,31800
+Aurangabad,Osmanpura,1,648,1,Unfurnished,Apartment,6,15100
+Nagpur,Wardha Road,4,1700,3,Furnished,Independent House,4,31800
+Nashik,Indira Nagar,2,1051,2,Furnished,Apartment,13,23900
+Mumbai,Andheri,2,1012,2,Semi-furnished,Apartment,9,33500
+Nagpur,Mihan,2,972,2,Semi-furnished,Independent House,14,22500
+Aurangabad,CIDCO,3,1229,2,Semi-furnished,Studio,15,25700
+Nashik,Cidco,3,1086,3,Semi-furnished,Apartment,15,24300
+Kolhapur,Tarabai Park,2,960,2,Semi-furnished,Apartment,11,19400
+Aurangabad,Beed Bypass,4,1422,4,Unfurnished,Apartment,11,33200
+Kolhapur,Rajarampuri,2,904,2,Unfurnished,Apartment,5,20100
+Mumbai,Dadar,3,1138,3,Semi-furnished,Studio,8,35000
+Kolhapur,Rankala,2,847,1,Furnished,Apartment,0,16100
+Pune,Wagholi,3,1148,2,Furnished,Apartment,12,32600
+Nashik,Cidco,3,1188,3,Unfurnished,Independent House,13,29900
+Pune,Hinjewadi,4,1609,4,Unfurnished,Independent House,5,36400
+Mumbai,Thane,2,803,2,Unfurnished,Apartment,15,21600
+Nashik,Gangapur Road,4,1559,3,Furnished,Apartment,0,36800
+Pune,Hinjewadi,3,1189,3,Furnished,Studio,8,24600
+Pune,Hinjewadi,3,1254,3,Furnished,Apartment,5,39000
+Kolhapur,Rajarampuri,1,749,1,Furnished,Apartment,6,15100
+Nagpur,Hingna,3,1161,2,Unfurnished,Apartment,9,29200
+Aurangabad,Waluj,3,970,3,Unfurnished,Independent House,9,24700
+Pune,Wagholi,4,1329,4,Unfurnished,Apartment,13,28800
+Nagpur,Sadar,3,1100,3,Semi-furnished,Studio,6,22900
+Kolhapur,Rajarampuri,2,906,1,Semi-furnished,Apartment,7,23700
+Nagpur,Sadar,2,1050,2,Unfurnished,Apartment,7,14900
+Mumbai,Borivali,3,1279,2,Unfurnished,Apartment,2,27700
+Mumbai,Powai,2,1000,1,Unfurnished,Apartment,15,28900
+Nashik,Gangapur Road,2,783,2,Unfurnished,Apartment,9,21000
+Mumbai,Powai,3,1183,2,Unfurnished,Apartment,12,37100
+Nashik,Cidco,3,1040,3,Semi-furnished,Apartment,10,24300
+Kolhapur,Uchgaon,1,734,1,Unfurnished,Independent House,1,12300
+Kolhapur,Rankala,1,556,1,Furnished,Independent House,1,16100
+Nagpur,Manish Nagar,4,1346,4,Semi-furnished,Apartment,11,29900
+Nagpur,Dharampeth,1,677,1,Semi-furnished,Apartment,3,15200
+Aurangabad,Osmanpura,2,1017,2,Furnished,Apartment,10,22400
+Aurangabad,CIDCO,1,597,1,Semi-furnished,Apartment,4,13400
+Pune,Baner,4,1582,4,Unfurnished,Apartment,13,33800
+Nagpur,Sadar,2,847,2,Unfurnished,Apartment,5,23800
+Kolhapur,Tarabai Park,4,1543,3,Semi-furnished,Independent House,1,33400
+Mumbai,Dadar,2,884,1,Semi-furnished,Apartment,0,29800
+Aurangabad,Waluj,2,845,1,Furnished,Apartment,0,18000
+Nashik,Cidco,1,650,1,Semi-furnished,Apartment,8,12100
+Mumbai,Kurla,2,757,2,Unfurnished,Apartment,2,32600
+Aurangabad,Osmanpura,2,848,1,Furnished,Independent House,14,19800
+Nashik,Panchavati,3,1126,2,Semi-furnished,Independent House,11,25600
+Aurangabad,Osmanpura,2,1001,2,Unfurnished,Apartment,8,20700
+Nagpur,Manish Nagar,3,1068,3,Semi-furnished,Apartment,5,30300
+Nashik,Pathardi,4,1449,4,Unfurnished,Apartment,0,37400
+Mumbai,Borivali,3,1123,3,Unfurnished,Apartment,9,44700
+Nashik,Panchavati,3,1332,3,Semi-furnished,Independent House,12,33400
+Mumbai,Kurla,2,981,2,Semi-furnished,Apartment,1,31500
+Pune,Kothrud,4,1437,3,Unfurnished,Apartment,12,33400
+Nagpur,Hingna,4,1477,4,Semi-furnished,Apartment,15,36000
+Pune,Wagholi,2,691,1,Semi-furnished,Independent House,9,21300
+Mumbai,Powai,1,388,1,Furnished,Independent House,4,32800
+Kolhapur,Kasaba Bawada,2,1036,2,Semi-furnished,Apartment,3,21300
+Aurangabad,Garkheda,4,1596,3,Semi-furnished,Apartment,1,28400
+Nashik,Indira Nagar,2,781,1,Furnished,Apartment,13,27800
+Aurangabad,Beed Bypass,2,937,1,Furnished,Studio,11,21000
+Nagpur,Wardha Road,1,788,1,Semi-furnished,Apartment,7,17900
+Aurangabad,Waluj,4,1561,4,Furnished,Independent House,6,25600
+Nagpur,Hingna,2,827,2,Semi-furnished,Apartment,9,23700
+Aurangabad,Satara Parisar,3,1077,2,Furnished,Apartment,11,27600
+Aurangabad,Satara Parisar,2,801,2,Semi-furnished,Studio,3,17100
+Mumbai,Kurla,2,982,1,Unfurnished,Apartment,13,34700
+Aurangabad,Osmanpura,1,523,1,Semi-furnished,Independent House,6,13300
+Nashik,Panchavati,3,1033,3,Unfurnished,Independent House,15,23000
+Nashik,Cidco,2,785,2,Furnished,Apartment,0,20400
+Mumbai,Powai,4,1434,4,Furnished,Apartment,12,44600
+Pune,Kothrud,3,1218,3,Semi-furnished,Independent House,4,26800
+Mumbai,Kurla,3,1133,3,Furnished,Apartment,2,28800
+Kolhapur,Rajarampuri,4,1190,3,Unfurnished,Independent House,3,36000
+Nashik,Pathardi,3,1177,2,Furnished,Apartment,10,28100
+Nashik,Cidco,3,1138,2,Furnished,Apartment,7,31100
+Pune,Wagholi,2,763,2,Semi-furnished,Apartment,12,22000
+Aurangabad,CIDCO,1,794,1,Semi-furnished,Independent House,10,16800
+Nagpur,Hingna,3,1008,2,Furnished,Independent House,13,29600
+Kolhapur,Shahupuri,3,1131,2,Semi-furnished,Apartment,10,24800
+Mumbai,Thane,3,1299,3,Unfurnished,Apartment,5,39400
+Nagpur,Dharampeth,2,705,2,Semi-furnished,Apartment,0,24500
+Aurangabad,Satara Parisar,3,1076,2,Semi-furnished,Apartment,0,20400
+Nashik,Pathardi,1,739,1,Furnished,Independent House,3,20100
+Nagpur,Manish Nagar,3,1226,2,Semi-furnished,Apartment,5,22900
+Nagpur,Sadar,4,1466,3,Semi-furnished,Apartment,3,30100
+Nagpur,Manish Nagar,3,1065,2,Semi-furnished,Independent House,12,28300
+Aurangabad,Osmanpura,2,822,2,Unfurnished,Apartment,5,17800
+Mumbai,Andheri,3,930,3,Unfurnished,Apartment,9,30000
+Pune,Kothrud,2,900,2,Unfurnished,Apartment,8,22800
+Mumbai,Thane,2,981,2,Unfurnished,Apartment,0,44300
+Nashik,Panchavati,3,1050,2,Unfurnished,Apartment,15,23500
+Nagpur,Mihan,2,1043,2,Semi-furnished,Studio,2,18100
+Nagpur,Sadar,3,1091,3,Semi-furnished,Apartment,11,26500
+Mumbai,Kurla,4,1321,3,Unfurnished,Apartment,0,39600
+Mumbai,Borivali,2,805,2,Semi-furnished,Apartment,10,32500
+Aurangabad,Beed Bypass,4,1198,4,Unfurnished,Apartment,10,18300
+Kolhapur,Tarabai Park,1,540,1,Semi-furnished,Apartment,13,19200
+Nashik,Cidco,4,1481,4,Furnished,Apartment,2,33100
+Nashik,Gangapur Road,2,823,1,Furnished,Apartment,3,22700
+Kolhapur,Uchgaon,2,832,2,Unfurnished,Apartment,5,20200
+Mumbai,Kurla,4,1276,3,Semi-furnished,Independent House,8,39600
+Aurangabad,Garkheda,3,1349,3,Unfurnished,Apartment,1,27000
+Mumbai,Borivali,3,1078,3,Semi-furnished,Apartment,12,36700
+Pune,Hinjewadi,4,1561,3,Semi-furnished,Apartment,15,44900
+Nagpur,Wardha Road,3,1357,3,Furnished,Apartment,9,36700
+Nagpur,Wardha Road,3,1247,2,Unfurnished,Apartment,4,22200
+Nagpur,Wardha Road,3,1037,3,Unfurnished,Apartment,7,25600
+Nashik,College Road,2,811,2,Unfurnished,Studio,12,22700
+Kolhapur,Rajarampuri,2,893,2,Furnished,Independent House,2,21100
+Mumbai,Borivali,3,1435,2,Unfurnished,Apartment,14,38100
+Kolhapur,Shahupuri,2,925,2,Unfurnished,Apartment,9,22300
+Pune,Kharadi,2,841,2,Unfurnished,Independent House,5,21900
+Nashik,Cidco,1,875,1,Furnished,Apartment,13,23100
+Aurangabad,Garkheda,2,1183,1,Furnished,Independent House,3,21700
+Nagpur,Hingna,3,1205,2,Furnished,Independent House,8,40400
+Kolhapur,Rajarampuri,2,879,2,Unfurnished,Studio,1,13500
+Aurangabad,Satara Parisar,2,968,2,Semi-furnished,Apartment,10,26200
+Aurangabad,Garkheda,2,891,2,Semi-furnished,Apartment,11,23400
+Kolhapur,Tarabai Park,3,1222,3,Semi-furnished,Apartment,2,21300
+Mumbai,Andheri,3,1023,3,Furnished,Apartment,11,35100
+Nashik,Pathardi,3,1180,2,Semi-furnished,Apartment,13,27600
+Pune,Wagholi,2,924,1,Semi-furnished,Independent House,13,21800
+Pune,Hadapsar,2,1025,2,Unfurnished,Apartment,5,18400
+Nagpur,Manish Nagar,3,1051,3,Semi-furnished,Apartment,15,32100
+Pune,Hinjewadi,3,1023,2,Semi-furnished,Independent House,1,31100
+Nagpur,Dharampeth,1,766,1,Semi-furnished,Studio,13,12800
+Aurangabad,Garkheda,1,785,1,Furnished,Apartment,0,15400
+Nashik,Gangapur Road,2,750,2,Semi-furnished,Apartment,8,17500
+Nashik,Cidco,3,1209,2,Semi-furnished,Studio,12,24200
+Mumbai,Andheri,2,765,2,Semi-furnished,Independent House,1,33000
+Kolhapur,Rankala,2,872,2,Unfurnished,Apartment,5,21500
+Mumbai,Powai,2,932,1,Unfurnished,Apartment,2,28200
+Mumbai,Andheri,1,465,1,Unfurnished,Studio,8,21800
+Aurangabad,Garkheda,3,1054,2,Unfurnished,Apartment,14,26000
+Mumbai,Powai,3,1253,2,Semi-furnished,Apartment,14,40000
+Mumbai,Powai,1,554,1,Unfurnished,Apartment,1,25200
+Pune,Kothrud,4,1249,4,Furnished,Studio,5,30900
+Mumbai,Borivali,2,1022,1,Furnished,Apartment,10,39000
+Kolhapur,Rajarampuri,3,1217,3,Unfurnished,Apartment,10,26900
+Pune,Kothrud,1,762,1,Semi-furnished,Apartment,1,21100
+Pune,Kharadi,2,700,2,Unfurnished,Studio,12,17900
+Kolhapur,Kasaba Bawada,1,713,1,Unfurnished,Apartment,11,13300
+Aurangabad,Beed Bypass,3,1291,3,Unfurnished,Independent House,8,20700
+Aurangabad,Garkheda,2,958,1,Furnished,Apartment,0,25500
+Pune,Kharadi,4,1251,3,Unfurnished,Apartment,8,32400
+Mumbai,Dadar,2,912,2,Semi-furnished,Apartment,8,39000
+Mumbai,Andheri,3,1122,2,Semi-furnished,Independent House,8,35300
+Nashik,Gangapur Road,4,1535,4,Semi-furnished,Apartment,0,34800
+Mumbai,Powai,4,1331,4,Semi-furnished,Apartment,5,36200
+Mumbai,Borivali,2,840,1,Unfurnished,Independent House,2,26200
+Aurangabad,Waluj,3,1226,3,Furnished,Apartment,0,34000
+Nashik,Panchavati,3,1038,3,Furnished,Apartment,3,25100
+Nagpur,Wardha Road,2,880,1,Furnished,Apartment,15,19200
+Nagpur,Sadar,4,1529,4,Furnished,Independent House,1,39600
+Nagpur,Manish Nagar,4,1193,3,Unfurnished,Apartment,8,24700
+Nashik,Indira Nagar,2,858,2,Furnished,Independent House,9,22000
+Pune,Kothrud,2,964,2,Furnished,Studio,2,25200
+Mumbai,Borivali,4,1345,4,Unfurnished,Apartment,15,26700
+Mumbai,Thane,3,1218,3,Furnished,Apartment,3,43600
+Mumbai,Thane,4,1242,4,Unfurnished,Apartment,13,48500
+Mumbai,Kurla,2,927,1,Semi-furnished,Independent House,14,27900
+Aurangabad,Satara Parisar,1,454,1,Unfurnished,Studio,12,9700
+Aurangabad,Osmanpura,2,791,2,Furnished,Independent House,6,28900
+Mumbai,Dadar,2,718,2,Semi-furnished,Independent House,11,40500
+Aurangabad,Garkheda,3,974,3,Furnished,Apartment,7,21900
+Mumbai,Powai,3,1173,2,Semi-furnished,Apartment,12,29800
+Kolhapur,Rankala,1,977,1,Semi-furnished,Apartment,9,23600
+Pune,Kharadi,2,859,1,Semi-furnished,Apartment,15,24600
+Nashik,Panchavati,3,1397,3,Semi-furnished,Apartment,13,23800
+Nagpur,Mihan,4,1355,4,Semi-furnished,Apartment,7,37600
+Nashik,Indira Nagar,3,1188,3,Furnished,Apartment,9,29500
+Pune,Hinjewadi,3,1218,2,Unfurnished,Independent House,7,35900
+Mumbai,Dadar,1,771,1,Semi-furnished,Studio,8,27300
+Nashik,Pathardi,3,1100,3,Furnished,Independent House,8,36900
+Nashik,Cidco,2,910,2,Unfurnished,Apartment,4,18900
+Pune,Baner,2,1020,2,Furnished,Independent House,4,29600
+Nagpur,Mihan,4,1439,4,Furnished,Apartment,12,35900
+Mumbai,Powai,2,824,1,Furnished,Independent House,1,39000
+Aurangabad,Garkheda,2,901,2,Furnished,Apartment,2,16300
+Nashik,Indira Nagar,2,946,2,Semi-furnished,Independent House,3,23200
+Nagpur,Hingna,2,956,1,Semi-furnished,Apartment,2,19500
+Nagpur,Wardha Road,2,881,1,Semi-furnished,Apartment,8,19600
+Nashik,Panchavati,3,1070,3,Furnished,Apartment,6,30800
+Nashik,Indira Nagar,3,1229,3,Unfurnished,Independent House,0,24300
+Mumbai,Thane,2,986,2,Unfurnished,Apartment,13,32100
+Nashik,Gangapur Road,4,1414,4,Unfurnished,Independent House,6,38600
+Nagpur,Manish Nagar,2,1146,2,Semi-furnished,Apartment,6,20500
+Aurangabad,Garkheda,1,574,1,Unfurnished,Apartment,5,11800
+Pune,Baner,1,571,1,Unfurnished,Apartment,2,13500
+Nashik,Panchavati,2,996,2,Unfurnished,Apartment,6,24300
+Mumbai,Thane,3,1104,3,Furnished,Apartment,0,44600
+Nashik,Gangapur Road,1,608,1,Semi-furnished,Independent House,2,19000
+Kolhapur,Kasaba Bawada,3,1048,2,Semi-furnished,Independent House,12,29200
+Pune,Hadapsar,3,1005,3,Furnished,Independent House,8,32000
+Nashik,Pathardi,1,562,1,Semi-furnished,Apartment,12,15600
+Mumbai,Thane,2,930,2,Unfurnished,Apartment,11,35900
+Pune,Wagholi,1,640,1,Unfurnished,Apartment,11,14400
+Aurangabad,Waluj,1,507,1,Unfurnished,Apartment,12,16800
+Pune,Kharadi,2,1136,2,Unfurnished,Independent House,5,23900
+Mumbai,Borivali,2,846,1,Semi-furnished,Independent House,10,45700
+Nagpur,Wardha Road,3,1149,2,Unfurnished,Independent House,1,28300
+Nagpur,Sadar,3,1012,3,Unfurnished,Independent House,14,24300
+Pune,Wagholi,3,1231,2,Semi-furnished,Independent House,2,28600
+Pune,Wagholi,2,796,2,Unfurnished,Apartment,3,23300
+Nashik,Cidco,2,1009,2,Semi-furnished,Apartment,12,22800
+Kolhapur,Shahupuri,1,724,1,Furnished,Apartment,4,17300
+Nashik,Pathardi,2,843,2,Furnished,Apartment,8,28500
+Aurangabad,Waluj,3,1267,3,Semi-furnished,Apartment,7,30300
+Nagpur,Wardha Road,4,1360,4,Furnished,Apartment,10,39100
+Nashik,Indira Nagar,1,731,1,Semi-furnished,Apartment,4,19000
+Nagpur,Wardha Road,1,730,1,Semi-furnished,Apartment,7,20700
+Mumbai,Kurla,3,1215,3,Semi-furnished,Apartment,5,33400
+Pune,Wagholi,3,1014,3,Unfurnished,Studio,1,18700
+Nagpur,Wardha Road,3,1246,3,Furnished,Apartment,14,33100
+Aurangabad,Beed Bypass,2,861,1,Semi-furnished,Apartment,4,17900
+Aurangabad,Garkheda,1,628,1,Unfurnished,Independent House,6,15800
+Pune,Kothrud,3,1072,2,Semi-furnished,Independent House,10,32200
+Aurangabad,Beed Bypass,2,874,2,Semi-furnished,Apartment,6,22800
+Nagpur,Manish Nagar,4,1677,3,Unfurnished,Apartment,13,35300
+Pune,Wagholi,1,619,1,Semi-furnished,Apartment,14,19500
+Nagpur,Hingna,2,1228,2,Unfurnished,Apartment,10,17800
+Aurangabad,Garkheda,2,675,2,Furnished,Apartment,14,18600
+Nashik,Cidco,3,1357,3,Furnished,Studio,11,24300
+Nagpur,Manish Nagar,3,1036,3,Unfurnished,Apartment,2,23800
+Mumbai,Dadar,1,483,1,Semi-furnished,Apartment,2,23800
+Kolhapur,Rajarampuri,3,1042,2,Unfurnished,Apartment,2,20700
+Pune,Kothrud,2,975,2,Furnished,Studio,1,29600
+Aurangabad,CIDCO,4,1237,4,Unfurnished,Apartment,5,24300
+Nashik,Pathardi,2,1062,2,Semi-furnished,Apartment,5,22200
+Nagpur,Dharampeth,2,926,2,Furnished,Apartment,9,26400
+Nashik,Indira Nagar,3,1254,2,Unfurnished,Apartment,7,25100
+Aurangabad,Satara Parisar,2,947,1,Semi-furnished,Independent House,15,25300
+Aurangabad,Osmanpura,2,799,2,Furnished,Apartment,8,20600
+Nashik,Pathardi,3,1072,3,Unfurnished,Apartment,2,24000
+Pune,Baner,2,1017,2,Semi-furnished,Independent House,15,32100
+Mumbai,Kurla,1,543,1,Semi-furnished,Apartment,6,23800
+Pune,Baner,3,1364,2,Unfurnished,Apartment,4,32500
+Kolhapur,Tarabai Park,1,609,1,Semi-furnished,Apartment,0,13200
+Nagpur,Manish Nagar,2,791,2,Furnished,Apartment,11,25800
+Aurangabad,Garkheda,2,870,1,Unfurnished,Apartment,1,17200
+Pune,Hadapsar,2,863,2,Semi-furnished,Apartment,10,23100
+Aurangabad,CIDCO,4,1626,3,Semi-furnished,Apartment,11,36500
+Nashik,Panchavati,2,943,2,Furnished,Apartment,12,22500
+Nashik,Pathardi,3,1183,2,Unfurnished,Apartment,14,23600
+Nashik,Cidco,3,1157,3,Semi-furnished,Apartment,11,21800
+Pune,Kharadi,3,1142,3,Semi-furnished,Apartment,11,30800
+Nagpur,Manish Nagar,1,575,1,Semi-furnished,Apartment,0,17300
+Nagpur,Hingna,3,1148,2,Unfurnished,Apartment,9,22600
+Nashik,Indira Nagar,3,1151,3,Unfurnished,Apartment,13,24500
+Nashik,College Road,4,1321,3,Unfurnished,Independent House,15,34700
+Nashik,Cidco,4,1375,3,Unfurnished,Independent House,10,29500
+Kolhapur,Rankala,3,1167,3,Semi-furnished,Apartment,1,30000
+Nashik,Cidco,4,1393,4,Furnished,Apartment,4,27200
+Pune,Baner,4,1573,3,Furnished,Apartment,1,28300
+Aurangabad,Garkheda,3,1086,3,Unfurnished,Apartment,11,20200
+Nagpur,Dharampeth,2,942,2,Unfurnished,Apartment,15,18100
+Nashik,Cidco,3,1068,3,Unfurnished,Studio,9,20600
+Nagpur,Wardha Road,3,1196,3,Furnished,Apartment,1,29900
+Kolhapur,Rankala,1,651,1,Unfurnished,Independent House,7,13700
+Nashik,Pathardi,2,817,2,Semi-furnished,Independent House,5,18600
+Nashik,College Road,3,1223,2,Furnished,Apartment,15,29900
+Aurangabad,Osmanpura,2,1027,1,Furnished,Studio,6,19200
+Aurangabad,Beed Bypass,1,689,1,Furnished,Apartment,3,19000
+Kolhapur,Shahupuri,1,636,1,Unfurnished,Independent House,9,15900
+Kolhapur,Uchgaon,2,969,2,Semi-furnished,Independent House,1,18100
+Mumbai,Borivali,4,1322,4,Semi-furnished,Studio,8,37500
+Mumbai,Andheri,2,1034,1,Semi-furnished,Apartment,8,37000
+Aurangabad,Satara Parisar,2,1065,1,Furnished,Independent House,0,25900
+Kolhapur,Uchgaon,1,496,1,Semi-furnished,Apartment,9,15400
+Mumbai,Kurla,4,1504,4,Semi-furnished,Independent House,1,37400
+Kolhapur,Rajarampuri,3,1236,3,Unfurnished,Apartment,8,20600
+Nagpur,Mihan,4,1416,4,Furnished,Apartment,12,28000
+Nashik,Gangapur Road,2,679,1,Unfurnished,Apartment,14,22800
+Aurangabad,Osmanpura,4,1554,3,Unfurnished,Apartment,10,30600
+Aurangabad,Waluj,1,778,1,Unfurnished,Apartment,4,15000
+Aurangabad,Garkheda,3,1251,3,Unfurnished,Apartment,14,19900
+Nashik,Cidco,3,1110,2,Semi-furnished,Apartment,4,29600
+Mumbai,Borivali,1,536,1,Furnished,Apartment,5,29700
+Aurangabad,Satara Parisar,3,1106,3,Semi-furnished,Independent House,0,25100
+Aurangabad,CIDCO,2,940,1,Unfurnished,Apartment,5,21800
+Kolhapur,Rajarampuri,2,893,2,Unfurnished,Apartment,0,15700
+Mumbai,Dadar,3,1173,3,Unfurnished,Apartment,2,44800
+Pune,Kothrud,3,1016,2,Unfurnished,Apartment,9,24600
+Mumbai,Thane,1,610,1,Semi-furnished,Apartment,14,26400
+Aurangabad,CIDCO,1,369,1,Semi-furnished,Apartment,13,13300
+Aurangabad,Osmanpura,2,809,2,Semi-furnished,Apartment,0,24600
+Kolhapur,Rajarampuri,3,1088,2,Unfurnished,Independent House,2,21600
+Pune,Wagholi,4,1349,4,Unfurnished,Independent House,7,35000
+Kolhapur,Uchgaon,4,1261,3,Unfurnished,Independent House,12,26400
+Aurangabad,Osmanpura,4,1493,3,Unfurnished,Apartment,8,25700
+Pune,Kothrud,2,930,2,Semi-furnished,Apartment,13,24500
+Nagpur,Hingna,3,1345,2,Unfurnished,Apartment,6,26600
+Kolhapur,Rajarampuri,3,1143,3,Unfurnished,Independent House,1,25000
+Nashik,College Road,4,1582,3,Semi-furnished,Independent House,12,33500
+Kolhapur,Uchgaon,3,993,2,Semi-furnished,Apartment,12,21600
+Nagpur,Mihan,3,1388,3,Unfurnished,Studio,2,23000
+Nashik,Indira Nagar,3,1155,2,Unfurnished,Apartment,15,27300
+Nagpur,Wardha Road,2,807,1,Semi-furnished,Apartment,4,27300
+Kolhapur,Tarabai Park,1,570,1,Semi-furnished,Independent House,4,12100
+Kolhapur,Uchgaon,3,1158,3,Semi-furnished,Independent House,4,22100
+Kolhapur,Rajarampuri,4,1338,3,Furnished,Independent House,7,41100
+Nashik,Pathardi,1,691,1,Furnished,Apartment,8,16600
+Pune,Hinjewadi,2,1111,2,Unfurnished,Apartment,3,20200
+Nagpur,Mihan,3,1188,2,Unfurnished,Independent House,15,25500
+Pune,Kharadi,1,729,1,Semi-furnished,Apartment,13,18000
+Nagpur,Sadar,3,1170,3,Furnished,Apartment,7,28900
+Nashik,Panchavati,2,773,2,Unfurnished,Apartment,13,17100
+Nashik,Indira Nagar,3,1075,3,Semi-furnished,Apartment,10,20400
+Pune,Wagholi,1,530,1,Furnished,Independent House,7,18600
+Kolhapur,Shahupuri,2,967,2,Unfurnished,Apartment,13,24000
+Pune,Wagholi,4,1338,3,Furnished,Apartment,9,30300
+Pune,Kothrud,3,1009,2,Unfurnished,Apartment,12,25200
+Kolhapur,Tarabai Park,1,654,1,Unfurnished,Apartment,10,15400
+Kolhapur,Rajarampuri,2,1097,1,Unfurnished,Apartment,12,22200
+Aurangabad,Satara Parisar,1,347,1,Furnished,Apartment,7,16500
+Mumbai,Dadar,2,956,1,Semi-furnished,Apartment,8,30500
+Kolhapur,Tarabai Park,3,1188,3,Unfurnished,Independent House,1,24600
+Nagpur,Mihan,2,1041,2,Semi-furnished,Apartment,9,21000
+Mumbai,Borivali,3,1033,3,Unfurnished,Independent House,4,38700
+Aurangabad,Waluj,1,573,1,Unfurnished,Independent House,5,16700
+Mumbai,Andheri,2,908,2,Unfurnished,Independent House,2,31100
+Mumbai,Andheri,3,948,2,Unfurnished,Apartment,7,31100
+Mumbai,Dadar,3,1103,3,Furnished,Apartment,14,47300
+Kolhapur,Uchgaon,2,892,2,Unfurnished,Apartment,14,22400
+Nashik,Pathardi,1,657,1,Semi-furnished,Apartment,10,12500
+Nagpur,Dharampeth,3,1228,3,Furnished,Independent House,4,33700
+Kolhapur,Kasaba Bawada,1,332,1,Semi-furnished,Apartment,5,13500
+Nashik,Indira Nagar,2,787,2,Furnished,Independent House,2,21100
+Nagpur,Dharampeth,2,746,1,Semi-furnished,Apartment,7,20300
+Mumbai,Borivali,2,885,1,Semi-furnished,Apartment,10,28800
+Kolhapur,Uchgaon,4,1202,4,Semi-furnished,Independent House,8,29100
+Kolhapur,Tarabai Park,4,1471,3,Semi-furnished,Apartment,6,38900
+Mumbai,Thane,3,1194,3,Unfurnished,Apartment,13,42000
+Nashik,Indira Nagar,3,1121,3,Unfurnished,Apartment,6,20700
+Pune,Hinjewadi,2,853,2,Unfurnished,Studio,11,20200
+Nashik,Gangapur Road,3,1147,2,Unfurnished,Independent House,4,24000
+Nashik,Indira Nagar,2,1003,2,Semi-furnished,Apartment,3,22700
+Aurangabad,Osmanpura,2,781,1,Semi-furnished,Apartment,8,19100
+Aurangabad,Osmanpura,2,781,1,Unfurnished,Independent House,5,13500
+Kolhapur,Tarabai Park,2,871,1,Semi-furnished,Apartment,7,20300
+Aurangabad,Satara Parisar,3,1057,3,Furnished,Independent House,7,29100
+Nashik,Gangapur Road,2,692,2,Semi-furnished,Apartment,10,22200
+Pune,Baner,2,954,1,Semi-furnished,Apartment,11,21900
+Nashik,Cidco,3,1104,3,Semi-furnished,Independent House,7,24900
+Kolhapur,Uchgaon,3,1157,3,Unfurnished,Apartment,12,27300
+Nashik,Indira Nagar,2,843,2,Furnished,Apartment,13,24700
+Nagpur,Wardha Road,3,1314,3,Semi-furnished,Apartment,10,32300
+Kolhapur,Tarabai Park,2,658,2,Semi-furnished,Apartment,13,15400
+Nashik,Indira Nagar,2,894,2,Unfurnished,Apartment,3,20800
+Aurangabad,CIDCO,2,1144,2,Semi-furnished,Apartment,5,18900
+Mumbai,Kurla,1,448,1,Unfurnished,Apartment,14,23500
+Nashik,Indira Nagar,2,1158,2,Furnished,Independent House,14,22300
+Mumbai,Thane,4,1532,4,Semi-furnished,Apartment,2,48400
+Nashik,Gangapur Road,4,1472,3,Semi-furnished,Independent House,0,34500
+Nashik,Panchavati,1,507,1,Unfurnished,Apartment,3,14800
+Kolhapur,Shahupuri,3,910,2,Semi-furnished,Apartment,14,28400
+Nagpur,Manish Nagar,3,1098,3,Furnished,Apartment,9,26400
+Mumbai,Thane,2,692,1,Furnished,Apartment,14,30100
+Nashik,College Road,2,730,2,Furnished,Apartment,3,28600
+Kolhapur,Shahupuri,2,1107,1,Unfurnished,Apartment,8,17700
+Nashik,Gangapur Road,3,1204,3,Unfurnished,Studio,2,27400
+Pune,Kothrud,2,896,2,Unfurnished,Apartment,4,18900
+Nashik,Indira Nagar,2,909,2,Semi-furnished,Apartment,7,23800
+Nagpur,Dharampeth,4,1342,3,Semi-furnished,Studio,14,28300
+Pune,Baner,4,1538,3,Semi-furnished,Independent House,5,40100
+Kolhapur,Kasaba Bawada,2,970,2,Semi-furnished,Independent House,9,23100
+Aurangabad,Garkheda,3,1100,3,Semi-furnished,Independent House,8,30000
+Pune,Kharadi,2,858,2,Semi-furnished,Apartment,9,21700
+Mumbai,Borivali,3,1188,3,Unfurnished,Independent House,8,46700
+Kolhapur,Tarabai Park,3,990,2,Semi-furnished,Apartment,3,17900
+Nagpur,Mihan,3,1266,3,Furnished,Apartment,9,33100
+Aurangabad,Waluj,3,1139,2,Unfurnished,Apartment,14,24100
+Nagpur,Dharampeth,2,723,2,Unfurnished,Studio,5,20100
+Kolhapur,Shahupuri,3,943,3,Semi-furnished,Apartment,10,21200
+Kolhapur,Uchgaon,3,1210,3,Unfurnished,Apartment,13,20400
+Kolhapur,Uchgaon,2,908,2,Semi-furnished,Apartment,10,24300
+Aurangabad,Osmanpura,2,645,2,Semi-furnished,Apartment,14,21100
+Pune,Kharadi,3,1308,2,Semi-furnished,Apartment,7,24400
+Mumbai,Dadar,2,911,2,Furnished,Apartment,2,26300
+Kolhapur,Tarabai Park,1,676,1,Semi-furnished,Apartment,15,13100
